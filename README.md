@@ -1,0 +1,1 @@
+# Python Reactivation\nMonth 1 of an AI Solutions Architect learning plan.
