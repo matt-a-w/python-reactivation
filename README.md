@@ -1,1 +1,1 @@
-# Python Reactivation\nMonth 1 of an AI Solutions Architect learning plan. This repo includes all resources used for this upskilling
+# Python Reactivation. Month 1 of an AI Solutions Architect learning plan. This repo includes all resources used for this upskilling
